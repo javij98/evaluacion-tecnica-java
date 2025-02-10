@@ -179,7 +179,7 @@ mvn test
 ---
 
 ## 🖇 Contribution
-Feel free to fork the repository and submit pull requests. For any issues, please open a ticket in the [Issues](https://github.com/your-username/library-management-system/issues) section.
+Feel free to fork the repository and submit pull requests. For any issues, please open a ticket in the [Issues](https://github.com/javij98/evaluacion-tecnica-java/issues) section.
 
 ---
 
